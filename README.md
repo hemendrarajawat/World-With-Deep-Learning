@@ -1,5 +1,10 @@
 # World With Deep Learning
 
+Hemendra Singh Rajawat
+* Email: [hemendrasingh061@gmail.com](mailto:hemendrasingh061@gmail.com)
+* GitHub: [hemendrarajawat](https://github.com/hemendrarajawat)
+* LinkedIn: [hsrajawat](https://www.linkedin.com/in/hsrajawat)
+
 This repository contains different models used in Machine Learning and Deep Learninig.
 
 For best understanding, follow the files in the below sequence:
