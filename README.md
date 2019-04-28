@@ -11,3 +11,4 @@ For best understanding, follow the files in the below sequence:
 
 * [MP Neuron Model - Breast Cancer Prediction](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/MP%20Neuron%20Model%20-%20Breast%20Cancer%20Prediction.ipynb)
 * [Perceptron Model - Breast Cancer Prediction](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/Perceptron%20Model%20-%20Breast%20Cancer%20Prediction.ipynb)
+* [Sigmoid Neuron - Basics](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/Sigmoid%20Neuron%20-%20Basics.ipynb)
