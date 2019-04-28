@@ -9,7 +9,7 @@ This repository contains different models used in Machine Learning and Deep Lear
 
 For best understanding, follow the files in the below sequence:
 
-* [MP Neuron Model - Breast Cancer Prediction](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/MP%20Neuron%20Model%20-%20Breast%20Cancer%20Prediction.ipynb)
-* [Perceptron Model - Breast Cancer Prediction](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/Perceptron%20Model%20-%20Breast%20Cancer%20Prediction.ipynb)
-* [Sigmoid Neuron - Basics](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/Sigmoid%20Neuron%20-%20Basics.ipynb)
-* [Sigmoid Neuron - Intermediate](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/Sigmoid%20Neuron%20-%20Intermediate.ipynb)
+1 [MP Neuron Model - Breast Cancer Prediction](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/MP%20Neuron%20Model%20-%20Breast%20Cancer%20Prediction.ipynb)
+2 [Perceptron Model - Breast Cancer Prediction](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/Perceptron%20Model%20-%20Breast%20Cancer%20Prediction.ipynb)
+3 [Sigmoid Neuron - Basics](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/Sigmoid%20Neuron%20-%20Basics.ipynb)
+4 [Sigmoid Neuron - Intermediate](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/Sigmoid%20Neuron%20-%20Intermediate.ipynb)
