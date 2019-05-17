@@ -14,3 +14,4 @@ For best understanding, follow the files in the below sequence:
 3) [Sigmoid Neuron - Basics](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/Sigmoid%20Neuron%20-%20Basics.ipynb)
 4) [Sigmoid Neuron - Intermediate](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/Sigmoid%20Neuron%20-%20Intermediate.ipynb)
 5) [Sigmoid Neuron - Advanced](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/Sigmoid%20Neuron%20-%20Advanced.ipynb)
+6) [First Deep Neural Network](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/First%20Deep%20Neural%20Network.ipynb)
