@@ -15,3 +15,4 @@ For best understanding, follow the files in the below sequence:
 4) [Sigmoid Neuron - Intermediate](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/Sigmoid%20Neuron%20-%20Intermediate.ipynb)
 5) [Sigmoid Neuron - Advanced](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/Sigmoid%20Neuron%20-%20Advanced.ipynb)
 6) [First Deep Neural Network](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/First%20Deep%20Neural%20Network.ipynb)
+7) [Feed Forward Network 2](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/Feed%20Forward%20Network%202.ipynb)
