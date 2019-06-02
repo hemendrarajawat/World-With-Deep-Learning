@@ -17,3 +17,4 @@ For best understanding, follow the files in the below sequence:
 6) [First Deep Neural Network](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/First%20Deep%20Neural%20Network.ipynb)
 7) [Feed Forward Network 2](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/Feed%20Forward%20Network%202.ipynb)
 8) [Multi-Class Feed Forward Network](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/Multi-Class%20Feed%20Forward%20Network.ipynb)
+9) [Vectorized Feed Forward Network](https://github.com/hemendrarajawat/World-With-Deep-Learning/blob/master/notebooks/Vectorized%20Feed%20Forward%20Network.ipynb)
